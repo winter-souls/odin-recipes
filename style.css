@@ -14,6 +14,18 @@ ul {
     font-size: 22px;
 }
 
+a {
+    font-family: Cambria, Cochin, serif;
+}
+
+a:link {
+    color: #2f45a7;
+}
+
+a:hover {
+    color: #7d2fa7;
+}
+
 
 
 
