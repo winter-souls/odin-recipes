@@ -3,5 +3,12 @@ body {
     background-color: #d9c8fa;
 }
 
+h1 {
+    color: #1c195c;
+    font-weight: bold;
+    text-align:center;
+    font-size: 48px;
+}
+
 
 
