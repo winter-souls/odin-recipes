@@ -18,6 +18,10 @@ body {
 .recipes {
     font-size: 22px;
     font-family: Cambria, Cochin, serif;
+    border: solid 4px #732489;
+    border-radius: 20px;
+    width: 500px;
+    margin: 20px auto;  
 }
 
 a:link {
