@@ -1,6 +1,6 @@
 body {
     font-family: 'Courier New', 'Verdana', 'Times New Roman';
-    background-color: #d9c8fa;
+    background-color: rgb(29, 21, 65);
 }
 
 .title {
@@ -16,7 +16,7 @@ body {
 }
 
 .recipes {
-    background-color: rgb(29, 21, 65);
+    background-color: #d9c8fa;
     padding: 10px 5px;
     margin: 20px auto;
     width: 500px;
@@ -33,6 +33,8 @@ button {
     margin: 20px auto;  
     border-radius: 10px;
 }
+
+
 
 
 
