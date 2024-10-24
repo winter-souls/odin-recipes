@@ -15,12 +15,8 @@ body {
     border-radius: 20px;
 }
 
-
-ul {
+.recipes {
     font-size: 22px;
-}
-
-a {
     font-family: Cambria, Cochin, serif;
 }
 
