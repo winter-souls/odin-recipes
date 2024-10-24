@@ -17,21 +17,17 @@ body {
 
 .recipes {
     font-size: 22px;
-    font-family: Cambria, Cochin, serif;
     border: solid 4px #732489;
     border-radius: 20px;
     width: 500px;
     margin: 20px auto;  
 }
 
-a:link {
-    color: #2f45a7;
+button {
+    background-color: #732489;
+    color: white;
+    font-family: Cambria, Cochin, serif;
 }
-
-a:hover {
-    color: #7d2fa7;
-}
-
 
 
 
