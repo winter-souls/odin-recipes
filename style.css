@@ -3,12 +3,18 @@ body {
     background-color: #d9c8fa;
 }
 
-h1 {
-    color: #1c195c;
+.title {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #732489;
+    color: white;
     font-weight: bold;
     text-align:center;
-    font-size: 48px;
+    font-size: 24px;
+    padding: 1px;
+    border-radius: 20px;
 }
+
 
 ul {
     font-size: 22px;
