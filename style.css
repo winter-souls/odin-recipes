@@ -1,39 +1,37 @@
 body {
-    font-family: 'Courier New', 'Verdana', 'Times New Roman';
+    font-family: 'Cambria', 'Cochin', serif;
     background-color: #CC99CC;
 }
 
-.title {
+* {
+    border-radius: 20px;
+    margin: 20px auto;
     width: 500px;
-    margin: 0 auto;
-    background-color: #732489;
     color: white;
+    font-family: 'Cambria', 'Cochin', serif;
+}
+
+.title {
+    background-color: #732489;
     font-weight: bold;
     text-align:center;
     font-size: 24px;
-    padding: 5px;
-    border-radius: 20px;
+    padding: 3px;
 }
 
 .recipes {
     background-color: #ffebee;
     padding: 10px 5px;
-    margin: 20px auto;
-    width: 500px;
-    border-radius: 20px
 }
 
 button {
     background-color: #732489;
-    color: white;
-    font-family: Cambria, Cochin, serif;
     display: block;
     font-size: 22px;
-    width: 250px;
+    width: 225px;
     margin: 20px auto;  
-    border-radius: 10px;
+    padding: 5px;
 }
-
 
 
 
