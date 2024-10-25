@@ -30,7 +30,17 @@ button {
     font-size: 22px;
     width: 225px;
     margin: 20px auto;  
-    padding: 5px;
+    padding: 7px;
+    transition-duration: 0.3s;
+    border: none;
+}
+
+button:hover {
+    background-color: #411f69;
+}
+
+a {
+    text-decoration: none;
 }
 
 
